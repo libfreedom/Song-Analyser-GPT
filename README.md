@@ -1,6 +1,10 @@
 # Song-Analyser-GPT
 Audio analysis, chart-ability ratings, with automated comparisons, charts and URLs display.
 
+
+# An OpenAI Custom-GPT for Song Audio Analysis by Steven Freedom A.K.A Mondays Are Cancelled
+
+
 User
 
 
@@ -44,6 +48,6 @@ Benchmark Song: Treasure
 
 **Now sit back and let the magic begin.**
 
-Here is an example conversation with Song Analysis GPT
+Here is an example conversation with Song Analyser GPT
 
 [Music Analysis & Recommendations by Song Analysis GPT for Wolfsleep by Mondays Are Cancelled.pdf](https://github.com/libfreedom/Song-Analyser-GPT/files/14850898/Music.Analysis.Recommendations.by.Song.Analysis.GPT.for.Wolfsleep.by.Mondays.Are.Cancelled.pdf)
