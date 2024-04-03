@@ -1,4 +1,4 @@
-# Song-Analyser-GPT
+# Song-Analysis-GPT
 Audio analysis, chart-ability ratings, with automated comparisons, charts and URLs display.
 
 
