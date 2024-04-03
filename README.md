@@ -50,4 +50,4 @@ Benchmark Song: Treasure
 
 Here is an example conversation with Song Analyser GPT
 
-[Music Analysis & Recommendations by Song Analysis GPT for Wolfsleep by Mondays Are Cancelled.pdf](https://github.com/libfreedom/Song-Analyser-GPT/files/14850898/Music.Analysis.Recommendations.by.Song.Analysis.GPT.for.Wolfsleep.by.Mondays.Are.Cancelled.pdf)
+[Music Analysis & Recommendations by Song Analysis GPT for Wolfsleep by Mondays Are Cancelled.pdf](https://github.com/libfreedom/Song-Analysis-GPT/files/14852947/Music.Analysis.Recommendations.by.Song.Analysis.GPT.for.Wolfsleep.by.Mondays.Are.Cancelled.pdf)
